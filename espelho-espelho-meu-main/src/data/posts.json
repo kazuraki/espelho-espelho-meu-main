@@ -1,0 +1,111 @@
+
+[
+  {
+    "id": 1,
+    "user": "ana.dev",
+    "name": "Ana Oliveira",
+    "location": "São Paulo, Brasil",
+    "avatar": "/images/avatars/ana.png.jpg",
+    "image": "/images/posts/ana_amiga.jpg",
+    "alt": "ana com sua amiga",
+    "likes": 128,
+    "caption": "Dias incriveis com ela!! ✨",
+    "comments": [
+      {
+        "id": 1,
+        "user": "dev.julia",
+        "text": "Ficou incrível! ❤️"
+      },
+      {
+        "id": 2,
+        "user": "codebr",
+        "text": "Muito bom! 🚀"
+      }
+    ],
+    "time": "Há 2 horas"
+  },
+
+
+  {
+    "id": 2,
+    "user": "LucMen",
+    "name": "Lucas Mendes",
+    "location": "Rio de Janeiro, Brasil",
+    "avatar": "/images/avatars/lucmen.jpg",
+    "image": "/images/posts/paisagem_lucmen.jpg",
+    "alt": "Paisagem de floresta",
+    "likes": 342,
+    "caption": "Fim de tarde com vista para a floresta",
+    "comments": [
+      {
+        "id": 1,
+        "user": "marina",
+        "text": "Que lugar maravilhoso!"
+      }
+    ],
+    "time": "Há 6 minutos"
+  },
+  {
+    "id": 3,
+    "user": "gatoodigo",
+    "name": "Mario Costa",
+    "location": "Curitiba, Brasil",
+    "avatar": "/images/avatars/gatoodico.jpg",
+    "image": "/images/posts/desenvolvendo_gatoodico.jpg",
+    "alt": "Xícara de café ao lado de um teclado",
+    "likes": 87,
+    "caption": "Qual é a sua trilha sonora para programar? ☕",
+    "comments": [],
+    "time": "Há 1 dia"
+  },
+
+  {
+    "id": 4,
+    "user": "ana.dev",
+    "name": "Ana Oliveira",
+    "location": "Campos do Jordão, Brasil",
+    "avatar": "/images/avatars/ana.png.jpg",
+    "image": "/images/posts/ana_viagem.jpg",
+    "alt": "ana com sua amiga",
+    "likes": 100,
+    "caption": "Viagem incrivel feita no campo",
+    "comments": [
+      {
+        "id": 1,
+        "user": "dev.julia",
+        "text": "Linda! ❤️"
+      },
+      {
+        "id": 2,
+        "user": "codebr",
+        "text": "Muito linda!! "
+      }
+    ],
+    "time": "Há 6 dias"
+  },
+
+  {
+    "id": 5,
+    "user": "GabrielCarecudoAlgusto",
+    "name": "Gabriel algusto",
+    "location": "xiquexiqueBahia, Brasil",
+    "avatar": "/images/avatars/gabrielcarecudo.jfif",
+    "image": "/images/posts/gabrielfantasia.jfif",
+    "alt": "carecudo",
+    "likes": 1000,
+    "caption": "eu todo lindo de fantasia",
+    "comments": [
+      {
+        "id": 1,
+        "user": "jailson.dev",
+        "text": "Lindo, meu amor! ❤️"
+      },
+      {
+        "id": 2,
+        "user": "debora.prof",
+        "text": "Muito feio!! "
+      }
+    ],
+    "time": "Há 1 dia"
+  }
+]
